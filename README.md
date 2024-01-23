@@ -1,3 +1,6 @@
+**This has been archived due to ongoing efforts from Amazon to limit automatically selecting blocks.**
+
+
 # Amazon Flex Unlimited SUPERCHARGED
 This work is based on the work done by @mdesilva. The original Amazon Flex Unlimited repository can be found at [https://github.com/mdesilva/AmazonFlexUnlimited](https://github.com/mdesilva/AmazonFlexUnlimited).
 
